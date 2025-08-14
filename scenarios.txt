@@ -1,0 +1,20 @@
+UPDATED SCENARIOS –
+First snap of the day:
+
+All VTDs have data
+a. Specifically check for GNLR AMRS VTD as it has data from multiple sources.
+
+One VTD - all measures missing data
+All the below scenarios - check if attachments are coming as expected – attachment for missing VTD shouldn’t be available
+a. First VTD has missing data and next VTDs are working as expected
+b. Last VTD has missing data and other VTDs are working as expected
+c. Second VTD has missing data and first and last VTDs are working as expected
+
+One VTD - one measure missing data and one measure has data
+All the below scenarios - check if attachments are coming as expected – attachment for missing measure for VTD shouldn’t be available, but measure with exposure should be available.
+a. First VTD has missing measure and next VTDs has full data
+b. Last VTD has missing measure and other VTDs has full data
+c. Second VTD has missing measure and first and last VTDs has full data
+
+More than one VTD missing data
+One VTD all measures missing and one VTD one measure missing data.
